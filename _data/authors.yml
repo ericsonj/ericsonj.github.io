@@ -1,0 +1,27 @@
+
+
+Ericson Joseph:
+  name             : "Ericson Joseph"
+  avatar           : "/assets/images/bio-photo.jpg"
+  bio              : "I am an **amazing** person."
+  location         : "Buenos Aires, Argentina"
+  email            : "ericsonjoseph@gmail.com"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      # url: "mailto:ericsonjoseph@email.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      # url: "https://ericsonj.net/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/ericsonjoseph"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/ericson-joseph"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/ericsonj"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      # url: "https://instagram.com/"
