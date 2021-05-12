@@ -12,13 +12,18 @@ header:
 excerpt: "Welcome to my site and thank you for your time.
 I hope my work is of interest to you."
 feature_row:
-  - image_path: /assets/images/bio-photo.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Left Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+  - image_path: /assets/images/mm-home-c-lang.png
+    alt: "Embedded Systems"
+    title: "Embedded Systems"
+    excerpt: 'Embedded System developer focus in multimedia and VoIP systems.'
+  - image_path: /assets/images/mm-home-python-lang.png
+    alt: "Python"
+    title: "Python"
+    excerpt: 'Python developer'
+  - image_path: /assets/images/mm-home-java-lang.png
+    alt: "Java"
+    title: "Java"
+    excerpt: 'Java developer focus in backend software.'
 ---
 
-{% include feature_row id="feature_row" type="left" %}
+{% include feature_row %}
