@@ -15,15 +15,25 @@ feature_row:
   - image_path: /assets/images/mm-home-c-lang.png
     alt: "Embedded Systems"
     title: "Embedded Systems"
-    excerpt: 'Embedded System developer focus in multimedia and VoIP systems.'
+    excerpt: 'Embedded System developer. Come along and see my video aboud multimedia and VoIP system. (opus, RTOS, LwIP, HTTP Server)'
+    url: "https://youtu.be/vv0Fbb35PcE"
+    btn_label: "Video"
+    btn_class: "btn--primary"
   - image_path: /assets/images/mm-home-python-lang.png
     alt: "Python"
     title: "Python"
-    excerpt: 'Python developer'
+    excerpt: 'Python developer, test pymaketool for your  C/C++ projects'
+    url: "https://pypi.org/project/pymaketool/"
+    btn_label: "pymaketool"
+    btn_class: "btn--primary"
   - image_path: /assets/images/mm-home-java-lang.png
     alt: "Java"
     title: "Java"
-    excerpt: 'Java developer focus in backend software.'
+    excerpt: 'Java developer, visit my framework web demo.
+    <b>User</b>:demo, <b>Password</b>:demo'
+    url: "https://app.ericsonj.net/WebProject/"
+    btn_label: "Framework demo"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row %}
